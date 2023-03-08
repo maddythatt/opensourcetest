@@ -1,4 +1,4 @@
-lion
+lion ContributorA
 tiger
 leopard
 turtle
